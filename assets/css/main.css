@@ -180,7 +180,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: rgba(248, 90, 64, 0.8);
+  background: #FF65A1;
   color: #fff;
 }
 
@@ -499,7 +499,7 @@ section {
     inset: 0;
     padding: 50px 0 10px 0;
     margin: 0;
-    background: rgba(0, 131, 116, 0.9);
+    background: #3E00EA;
     overflow-y: auto;
     transition: 0.3s;
     z-index: 9998;
@@ -996,7 +996,7 @@ section {
 }
 
 .services .service-item:hover .icon:before {
-  background: #00b6a1;
+  background: #905BFF;
 }
 
 .services .service-item:hover h3 {
@@ -1720,7 +1720,7 @@ section {
 
 .contact .info-item {
   width: 100%;
-  background-color: #CA0CDA;
+  background-color: #905BFF;
   margin-bottom: 20px;
   padding: 20px;
   border-radius: 10px;
@@ -1851,7 +1851,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: rgba(0, 131, 116, 0.8);
+  background: #3c02db;
 }
 
 @keyframes animate-loading {
@@ -1995,7 +1995,7 @@ section {
 }
 
 .hero .icon-box:hover {
-  background: #009786;
+  background: #905BFF;
 }
 
 .hero .icon-box:hover .title a,
